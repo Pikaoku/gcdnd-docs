@@ -14,4 +14,4 @@ campaign summary
 | 6 | Pilot | yo | 
 | 7 | Pilot | yo | 
 | 8 | Pilot | yo | 
-| [9](S09: Thus Ends Tunkesk.md) | Pilot | yo | 
+| [9](S09:thus_ends_tunkesk.md) | Pilot | yo | 
