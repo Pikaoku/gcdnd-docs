@@ -5,7 +5,7 @@ campaign summary
 ## Sessions
 
 | # | Title | Summary | Link |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 1 | Pilot | Stop a cart with thunderwave, derail the entire campaign. | yo |
 | 2 | Pilot | yo | yo |
 | 3 | Pilot | yo | yo |
@@ -14,4 +14,4 @@ campaign summary
 | 6 | Pilot | yo | yo |
 | 7 | Pilot | yo | yo |
 | 8 | Pilot | yo | yo |
-| 9 | Pilot | yo | yo |
+| [9](S09: Thus Ends Tunkesk.md) | Pilot | yo | 
