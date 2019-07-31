@@ -24,6 +24,10 @@ If the object of your purchase is **one level higher** than your wealth score an
 
 You cannot make purchases that are more than one level higher than your wealth score.
 
+## Party Only!
+
+This only affects the *entire party as an organization*. Individuals are still free to track coins and gems and make individual purchases.
+
 ## Examples
 
 1. Thanks to a recently successful salvage run, Shara’s wealth score just increased to 4. She’s had her eyes set on a new cargo ship for a while now, which the GM has set at wealth level 5. Shara chooses to spend her savings to get the ship. Because it is one level higher than her current wealth score, her wealth is permanently reduced by 1, leaving her again with a wealth score of 3.
