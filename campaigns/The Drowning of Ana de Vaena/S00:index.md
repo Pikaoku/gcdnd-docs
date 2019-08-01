@@ -11,7 +11,7 @@ campaign summary
 | 3 | The Bloodless | Clearing Sanablat's Cove, killing Sanablat and the birth of the Bloodless | 
 | 4 | The Sea Ghost | Blowing it the fuck up yo, fighting the werecroc pirate capatain. | 
 | 5 | A Giant Reveal | Ambushed by the Sahuagin, meeting Thrundomir the storm giant, opening the chest meant for Tunkesk | 
-| 6 | The Night Blades | Side quest in Abydos to deal with the bandit group known as the Night Blades, and their recently released leader Ralavaz. |
+| 6 | The Night Blades | Side quest in Abydos to deal with the bandit group known as the Night Blades, and their recently released leader Ralavaz. Feet pissing. |
 | 7 | Assuming Direct Control | A bar/street brawl, a peek at Tunkesk's lair,  | 
 | 8 | Into the Fae Wild | Arriving at Bartolome's rest, getting into the flipped submerged tower, through the labyrinth and playing dice with a giant crab. | 
 | 9 | Exit the Fae Wild  | Comodes, the Compulsive Lyre, the Club Club and a sudden lack of fairies. | 
