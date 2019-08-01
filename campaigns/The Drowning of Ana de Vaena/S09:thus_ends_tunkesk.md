@@ -45,6 +45,7 @@ The dazed commoners regained consciousness, the party helped the children out of
 * **+2 Shortsword of Psychic damage**, Meabh
 * **Driftglobe**
 * **Amulet of Proof Against Detection and Location**
+* 5 Potions of Healing
 
 
 ### Wealth
