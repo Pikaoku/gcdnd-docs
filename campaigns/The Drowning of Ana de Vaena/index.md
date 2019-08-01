@@ -6,7 +6,7 @@ campaign summary
 
 | # | Title | Summary | 
 | :---: | --- | --- |
-| 1 | Pilot | Stop a cart with thunderwave, derail the entire campaign. | 
+| 1 | [Pilot](./S01:pilot.md) | Get the gang together, learn some important names. | 
 | 2 | Pilot | yo | 
 | 3 | Pilot | yo | 
 | 4 | Pilot | yo | 
