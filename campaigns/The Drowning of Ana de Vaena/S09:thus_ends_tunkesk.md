@@ -17,7 +17,7 @@ Summary be here
 * **Staff of the Wilds or something**, Freya
 * **+2 Shortsword of Pshyic damage**, Meabh
 * **Driftglobe**
-* Amulet of Proof Against Detection and Location
+* **Amulet of Proof Against Detection and Location**
 
 
 ### Wealth
