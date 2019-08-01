@@ -32,9 +32,10 @@ The dazed commoners regained consciousness, the party helped the children out of
 
 ## Kills
 
-* Neothelid
-* Captain of the Guard Rodrio Albergo
-* Tunkesk, a Ulitharid
+* A ballista and it's crew, by Xan and Jared's lightning. 
+* Neothelid by Clonkers
+* Captain of the Guard Rodrio Albergo by Captain Dunbar
+* Tunkesk, a Ulitharid, by Meabh
 
 ## Loot
 
