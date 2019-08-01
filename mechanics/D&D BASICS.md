@@ -2,6 +2,16 @@ work in progress...
 
 # Core
 
+## Actions
+
+### Actions
+
+### Bonus Actions
+
+### Reaction
+
+### Movement
+
 ## Proficiency
 
 Proficiency is used to represent what your character is good at. If you have proficiency in something, you're good at using it. The two most common usages of Proficiency are SKILLS and WEAPONS. 
