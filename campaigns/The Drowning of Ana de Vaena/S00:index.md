@@ -16,3 +16,4 @@ campaign summary
 | 8 | Into the Fae Wild | Arriving at Bartolome's rest, getting into the flipped submerged tower, through the labyrinth and playing dice with a giant crab. | 
 | 9 | Exit the Fae Wild  | Comodes, the Compulsive Lyre, the Club Club and a sudden lack of fairies. | 
 | 10 | [Thus Ends Tunkesk](./S10:thus_ends_tunkesk.md) | Operation Navara Storm and killing Tunkesk | 
+| 11 | Into the Elkhart Woods | o0o0o0o0o0o0o0o |
