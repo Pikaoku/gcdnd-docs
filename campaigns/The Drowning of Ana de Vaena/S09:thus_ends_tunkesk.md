@@ -14,6 +14,8 @@ Captain Dunbar spotted the Bloodless along the line of the Albergo fleet. As the
 
 The party used several long range lightning based attacks to disable the sentry watchtower that was firing at their ships.
 
+Landing on the dock, the party witnessed The Kraken enter the fray in the sea battle. Entire ships were being pulled under like it was easy. 
+
 Rather than wade through the thick of the fighting the Lightning Jacks slipped into a sewer. There they were accosted by a Neothelid, a large ichor covered worm with an arsenal of tentacles coming out of its maw. The Neothelid successfully Feebleminded Dunbar, which was undone by Grognokek's expenditure of a wish.
 
 While in the sewers the party found a near-death owl Aarockra who they saved.
@@ -26,7 +28,7 @@ The party advanced using ranged weapons at first. Meabh got in close, leapt off 
 
 Another round of attacks later ended with Clonkers grabbing the Uiltharid by the tentacle, holding him still while Meabh lopped his squiddy head off. 
 
-
+The dazed commoners regained consciousness, the party helped the children out of the cavern, and the fighting began to cease throughout the city.
 
 ## Kills
 
