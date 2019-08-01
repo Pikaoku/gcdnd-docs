@@ -14,4 +14,4 @@ campaign summary
 | 6 | Pilot | yo | 
 | 7 | Pilot | yo | 
 | 8 | Pilot | yo | 
-| 9 | [Thus Ends Tunkesk](./S09:thus_ends_tunkesk.md) | yo | 
+| 9 | [Thus Ends Tunkesk](./S09:thus_ends_tunkesk.md) | Operation Navara Storm and killing Tunkesk | 
