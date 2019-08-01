@@ -5,7 +5,7 @@ campaign summary
 ## Sessions
 
 | # | Title | Summary | 
-| :---: | --- | --- |
+| :---: | ------------- | --- |
 | 1 | [Pilot](./S01:pilot.md) | Get the gang together, learn some important names. | 
 | 2 | The Beardless | Losing items to Captain Rodrio, meeting the beardless dwarf and heading to the abandonded mansion. | 
 | 3 | The Bloodless | Clearing Sanablat's Cove, killing Sanablat and the birth of the Bloodless | 
