@@ -10,7 +10,7 @@ Multiple items of a similar nature that can be stowed together, such as twenty a
 
 ## Heavy Items
 
-Some items have the heavy property. You can carry a number of heavy items equal to your strength modifier. Once you’re carrying your maximum number of heavy items, your speed is cut in half. A character with a zero Might score cannot carry any heavy items.
+Some items have the heavy property. You can carry a number of heavy items equal to your strength modifier. Once you’re carrying your maximum number of heavy items, your speed is cut in half. A character with a zero strength modifier score cannot carry any heavy items.
 
 Any metal weapon with the *two-handed* or *heavy* properties are examples of heavy items.
 
