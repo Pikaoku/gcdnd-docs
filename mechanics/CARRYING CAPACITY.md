@@ -2,7 +2,7 @@
 
 To remove the need to tracks dozens of items each, there are simplified carrying capacity rules. 
 
-Every character can carry a number of items equal to their strength ability score. So, Xan with 16 strnegth can carry 16 different items.
+Every character can carry a number of items equal to their strength ability score. So, Xan with 16 strength can carry 16 different items.
 
 Only track the items that will actually affect the game. So, no, you don’t need to record your pants and shirt on your character sheet. But, your armor does count.
 
