@@ -30,11 +30,11 @@ This only affects the *entire party as an organization*. Individuals are still f
 
 ## Examples
 
-1. Thanks to a recently successful salvage run, Shara’s wealth score just increased to 4. She’s had her eyes set on a new cargo ship for a while now, which the GM has set at wealth level 5. Shara chooses to spend her savings to get the ship. Because it is one level higher than her current wealth score, her wealth is permanently reduced by 1, leaving her again with a wealth score of 3.
+1. Thanks to a recently successful salvage run, the party’s wealth score just increased to 4. They have had their eyes set on a new cargo ship for a while now, which the GM has set at wealth level 5. They chooses to spend their savings to get the ship. Because it is one level higher than their current wealth score, their wealth is permanently reduced by 1, leaving them again with a wealth score of 3.
 
-2. Slade, master of the local thieves’ guild, has a wealth score of 5. He wants to outfit all of his men with new weapons, which the GM has decided equates to wealth level 5. Slade can complete the purchase, but it is so taxing on his resources that for the next two weeks he can only acquire goods that are below his wealth score.
+2. A local thieves’ guild has a wealth score of 5. They wants to outfit all of their men with new weapons, which the GM has decided equates to wealth level 5. They can complete the purchase, but it is so taxing on their resources that for the next two weeks they can only acquire goods that are below their wealth score.
 
-3. Crazy Mac has panhandled his way up to a wealth score of 1. From now on, he can afford 3 square meals and a warm bed every night, because they are priced at wealth level 0.
+3. Crazy Mac's adventuring party have panhandled their way up to a wealth score of 1. From now on, they can afford 3 square meals and a warm bed every night, because they are priced at wealth level 0.
 
 ## Wealth Overview
 
