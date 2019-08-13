@@ -16,5 +16,5 @@ campaign summary
 | 8 | Into the Fae Wild | Arriving at Bartolome's rest, getting into the flipped submerged tower, through the labyrinth and playing dice with a giant crab. | 
 | 9 | Exit the Fae Wild  | Comodes, the Compulsive Lyre, the Club Club and a sudden lack of fairies. | 
 | 10 | [Thus Ends Tunkesk](./S10:thus_ends_tunkesk.md) | Operation Navara Storm and killing Tunkesk | 
-| 11 | Into the Elkhart Woods | Met devil worshipper mercenaries, Freya asserted her authority and shoo'd them. A mysterious black double pyramid accosted the party during a rest, was soon destroyed by Freya's dispel magic. They entered the Shade Water keep, met the cyclops and ventured into the cryot below. |
-| 12 | Somehting Stinky this way comes | | 
+| 11 | Something stinking this way comes | Met devil worshipper mercenaries, Freya asserted her authority and shoo'd them. A mysterious black double pyramid accosted the party during a rest, was soon destroyed by Freya's dispel magic. They entered the Shade Water keep, met the cyclops and ventured into the cryot below. |
+| 12 | The Hammer of King Harkonnen | ??? | 
