@@ -18,5 +18,5 @@ campaign summary
 | 10 | [Thus Ends Tunkesk](./S10:thus_ends_tunkesk.md) | Operation Navara Storm and killing Tunkesk | 
 | 11 | Something stinking this way comes | Met devil worshipper mercenaries, Freya asserted her authority and shoo'd them. A mysterious black double pyramid accosted the party during a rest, was soon destroyed by Freya's dispel magic. They entered the Shade Water keep, met the cyclops and ventured into the cryot below. |
 | 12 | Extremely Wicked, Shockingly Evil and Vile | Murder, Murder, Murder | 
-| 13 | The Crypt  | The Storm Jackers make their way through the perilous challlenges of an old dwarven adventuring party: The Heroes of King Harkonnen. While tackling the final challenge Xan went down and the party wre faced with a raging Goristro, who was summoning Shadow Demons... |
+| 13 | The Crypt of King Harkonnen's Hammer  | The Storm Jackers make their way through the perilous challlenges of an old dwarven adventuring party: The Heroes of King Harkonnen. While tackling the final challenge Xan went down and the party wre faced with a raging Goristro, who was summoning Shadow Demons... |
 | 14 | The party faces a goristro! |
